@@ -230,5 +230,6 @@ Step 6 − Now we will be able to create a While loop within Selenium IDE and it
 
 <img width="941" height="424" alt="image" src="https://github.com/user-attachments/assets/94e2a6b5-8b7c-410b-9bb2-7089255d62bc" />
 
-Result:
+## Result:
+
 Thus, the study of selenium web testing tool is conducted and the results were noted.
